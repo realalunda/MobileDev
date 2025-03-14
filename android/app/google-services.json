@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "38223570403",
+      "project_id": "thanabordee-bb593",
+      "storage_bucket": "thanabordee-bb593.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:38223570403:android:6aecb02e6d0dd1b8d82cd6",
+          "android_client_info": {
+            "package_name": "com.example.project"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAaVITujqo8sbGhJ5IMbkfKu_5oOQIr6_I"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
